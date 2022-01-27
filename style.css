@@ -847,7 +847,9 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
-
+.txcontrast{
+    color: black;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
