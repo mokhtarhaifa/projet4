@@ -509,7 +509,11 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
-
+.textinformation{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -705,7 +709,7 @@ p {
 }
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 20px auto auto auto;
 }
 
 /*h2 {
