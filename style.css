@@ -848,7 +848,7 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 .txcontrast{
-    color: black;
+    color: #303030;
 }
 @media (max-width: 1024px) {
     .bloc {
